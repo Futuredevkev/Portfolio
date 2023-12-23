@@ -1,5 +1,5 @@
 import "./app.scss"
-import Cursor from "./components/cursor/cursor"
+import Cursor from "./components/cursor/Cursor"
 import Hero from "./components/hero/Hero"
 import Navbar from "./components/navbar/Navbar"
 import Parallax from "./components/parallax/Parallax"
